@@ -1,0 +1,20 @@
+{
+    "expo": {
+     "name": "Food Delivery",
+     "icon": "./src/assets/icons/main_icon_460x460.png",
+     "version": "1.0.0",
+     "slug": "food-delivery-clone",
+     "splash": {
+      "image": "./src/assets/images/food_delivery_splash.png",
+      "backgroundColor": "#FF9671" 
+      },
+     "ios": {
+       "bundleIdentifier": "dev.emaster.fooddelivery",
+       "buildNumber": "1.0.0"
+     },
+     "android": {
+       "package": "dev.emaster.fooddelivery",
+       "versionCode": 1
+     }
+    }
+  }
